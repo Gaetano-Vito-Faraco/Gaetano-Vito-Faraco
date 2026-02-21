@@ -1,7 +1,5 @@
 <h1 align="center">Ciao, Sono Gaetano!👋🏼👨🏻‍💻</h1>
 
----
-
 Sono uno studente laureato in Informatica presso l'Università degli Studi di Salerno.
 
 - 🔭 Cosa sto facendo attualmente: Sto perfezionando le mie competenze grtazie agli studi per la Magistrale.
