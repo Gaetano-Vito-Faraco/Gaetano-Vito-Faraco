@@ -1,11 +1,10 @@
-Ciao, sono Gaetano! 👋
+<h1 align="center">Ciao, Sono Gaetano!👋🏼👨🏻‍💻</h1>
 
-Sono un laureato in Informatica presso l'Università degli Studi di Salerno con una grande passione per la costruzione di architetture robuste e scalabili.
+---
 
-    🔭 Cosa sto facendo: Sto perfezionando le mie competenze con gli studi per la magistrale.
+Sono un laureato in Informatica presso l'Università degli Studi di Salerno.
 
-    🎓 Formazione: Laurea Triennale in Informatica presso UNISA.
-
-    💡 Filosofia di sviluppo: Mi piace molto la programmazione orientata agli oggetti e nella risoluzione creativa dei problemi.
-
-    🤝 Collaborazione: Amo lavorare in team e condividere conoscenze per raggiungere obiettivi comuni.
+- 🔭 Cosa sto facendo attualmente: Sto perfezionando le mie competenze grtazie agli studi per la Magistrale.
+- 🎓 Formazione: Laurea in Informatica presso UNISA.
+- 💡 Filosofia di sviluppo: Credo fermamente nel potere della programmazione orientata agli oggetti e nella risoluzione creativa dei problemi.
+- 🤝 Collaborazione: Mi piace lavorare in team e condividere conoscenze per raggiungere obiettivi comuni
