@@ -2,7 +2,7 @@
 
 ---
 
-Sono un laureato in Informatica presso l'Università degli Studi di Salerno.
+Sono uno studente laureato in Informatica presso l'Università degli Studi di Salerno.
 
 - 🔭 Cosa sto facendo attualmente: Sto perfezionando le mie competenze grtazie agli studi per la Magistrale.
 - 🎓 Formazione: Laurea in Informatica presso UNISA.
